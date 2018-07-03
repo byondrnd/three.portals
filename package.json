@@ -1,5 +1,6 @@
 {
   "name": "three-portals",
+  "version": "1.0.0",
   "author": "Szenia Zadvornykh",
   "license": "MIT",
   "dependencies": {
